@@ -1,7 +1,5 @@
 // This page is not essential at the moment
 
-package com.ge.cognito;
-
 clientId = 2jkihs1a8su8n4jq0lvihsh3po
 userPoolId = us-east-1_3vocxnITQ
 endpoint = cognito-idp.us-east-1.amazonaws.com
